@@ -1,11 +1,10 @@
 # blockchain-developer-bootcamp-final-project
 
-
-Final project idea: 
+**Final project idea:**
 
 Develop a 'dynamic' NFT which responds to Chainlink oracle data feeds
 
-Notes:
+**Notes:**
 
 I am interested in Chainlink's goal to get external world data on-chain in a reliable way.
 
